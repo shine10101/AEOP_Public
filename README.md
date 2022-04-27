@@ -13,7 +13,7 @@ AEOP is a web-based application offering:
 
 AEOP will assist with minimizing payback on investments for farmers, maximizing the effectiveness of grant aid for technologies on dairy farms and reduce the agricultural sector&#39;s contribution to overall GHG emissions.
 
-A full comprehensive user manual is also embedded within AEOP. AEOP has been developed in collaboration between the Cork Institute of Technology, Bord Bia, Met Éireann, the SEAI and Teagasc. For further information please [contact us](https://messo.cit.ie/contact).
+A full comprehensive user manual is also embedded within AEOP. AEOP has been developed in collaboration between the Cork Institute of Technology, Bord Bia, Met Éireann, the SEAI and Teagasc. 
 
 # Getting Started
 
