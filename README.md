@@ -42,7 +42,7 @@ AEOP consists of the following six subsections:
 
 2. Technology Calculator: The _Technology Calculator_ (below) allows for the calculation of potential payback periods, cost and CO2 savings attributed to the installation of energy technologies such as variable speed drives (VSD) for milking machines, solar PV panels, solar thermal, heat recovery and wind turbines.
 
-![Technology Calculator Screenshot](hhttps://github.com/shine10101/AEOP_Public/blob/d5a5a42b973a1ddb19a9acd8b3512e9bb4472db7/AEOP.png)
+![Technology Calculator Screenshot](https://github.com/shine10101/AEOP_Public/blob/d5a5a42b973a1ddb19a9acd8b3512e9bb4472db7/AEOP.png)
 
 3. Energy Optimisation: The _Energy Optimisation_ tool was added optimisation functionality to the _Technology Calculator_, allowing the optimal technology setup and management practices for either maximizing return on investment (ROI) or minimizing electricity related CO2 emissions to be established, for a specific dairy farm.
 
